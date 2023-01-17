@@ -1,0 +1,24 @@
+{
+    "options": {
+        "paths": {
+            "fonts": "./fonts",
+            "sprites": "./styles/osm-bright/sprites"
+        }
+    },
+    "styles": {
+        "rtm-plain": {
+            "style": "./styles/rtm-plain/style.json"
+        },
+        "osm-bright": {
+            "style": "./styles/osm-bright/style.json"
+        },
+        "maptiler-3d": {
+            "style": "./styles/maptiler-3d/style.json"
+        }
+    },
+    "data": {
+        "norway-vector": {
+            "mbtiles": "./data/norway.mbtiles"
+        }
+    }
+}
