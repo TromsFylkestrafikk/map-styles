@@ -1,6 +1,6 @@
 {
   "version": 8,
-  "name": "Bright",
+  "name": "OSM Bright",
   "metadata": {
     "mapbox:autocomposite": false,
     "mapbox:groups": {
@@ -17,18 +17,18 @@
     "openmaptiles:mapbox:source:url": "mapbox://openmaptiles.4qljc88t",
     "openmaptiles:version": "3.x"
   },
-  "center": [18.9, 69.6],
-  "zoom": 9,
+  "center": [18.92, 69.66],
+  "zoom": 11,
   "bearing": 0,
   "pitch": 0,
   "sources": {
     "openmaptiles": {
       "type": "vector",
-      "url": "http://victor.vindtrollet/data/norway-vector.json"
+      "url": "/data/norway-vector.json"
     }
   },
   "sprite": "sprite",
-  "glyphs": "http://victor.vindtrollet/fonts/{fontstack}/{range}.pbf",
+  "glyphs": "/fonts/{fontstack}/{range}.pbf",
   "layers": [
     {
       "id": "background",

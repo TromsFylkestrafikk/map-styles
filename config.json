@@ -2,12 +2,12 @@
     "options": {
         "paths": {
             "fonts": "./fonts",
-            "sprites": "./styles/osm-bright/sprites"
+            "sprites": "./styles/shared/sprites"
         }
     },
     "styles": {
-        "rtm-plain": {
-            "style": "./styles/rtm-plain/style.json"
+        "positron": {
+            "style": "./styles/positron/style.json"
         },
         "osm-bright": {
             "style": "./styles/osm-bright/style.json"

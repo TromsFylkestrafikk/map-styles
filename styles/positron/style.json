@@ -20,12 +20,14 @@
     "openmaptiles:version": "3.x",
     "maputnik:renderer": "mbgljs"
   },
-  "center": [18.9, 69.6],
-  "zoom": 9,
+  "center": [18.92, 69.66],
+  "zoom": 11,
+  "bearing": 0,
+  "pitch": 0,
   "sources": {
     "openmaptiles": {
       "type": "vector",
-      "url": "http://localhost:8080/data/norway-vector.json"
+      "url": "/data/norway-vector.json"
     }
   },
   "glyphs": "fonts/{fontstack}/{range}.pbf",
