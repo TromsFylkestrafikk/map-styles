@@ -24,7 +24,7 @@
   "sources": {
     "openmaptiles": {
       "type": "vector",
-      "url": "/data/norway-vector.json"
+      "url": "https://victor.tftservice.no/data/norway-vector.json"
     }
   },
   "sprite": "sprite",
